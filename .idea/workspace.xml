@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8b494c0-9c86-43b4-bf57-e9b6d27a21b7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2021-11-23_002318/Wafer_13012020_141000.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2021-11-23_002318/Wafer_15010_130532.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2021-11-23_002318/wafer_07012020_041011.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2021-11-23_002318/wafer_20012020_090819.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PredictionArchivedBadData/BadData_2021-11-23_002318/wafer_22022020_041119.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Database/Prediction.db" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Database/Prediction.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_FileFromDB/InputFile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_FileFromDB/InputFile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DataBaseConnectionLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/DataBaseConnectionLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbInsertLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/DbInsertLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbTableCreateLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/DbTableCreateLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/ExportToCsv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/ExportToCsv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/GeneralLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/GeneralLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/Prediction_Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/Prediction_Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/columnValidationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/columnValidationLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/dataTransformLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/dataTransformLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/missingValuesInColumn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/missingValuesInColumn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/nameValidationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/nameValidationLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Output_File/Predictions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/valuesfromSchemaValidationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Logs/valuesfromSchemaValidationLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_monitoringdashboard.db" beforeDir="false" afterPath="$PROJECT_DIR$/flask_monitoringdashboard.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predictFromModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/predictFromModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing_data/null_values.csv" beforeDir="false" afterPath="$PROJECT_DIR$/preprocessing_data/null_values.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1idZJaGgagT6jkL4roZFUtthqCC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WaferFaultDetection_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8b494c0-9c86-43b4-bf57-e9b6d27a21b7" name="Default Changelist" comment="" />
+      <created>1602239357846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602239357846</updated>
+    </task>
+    <servers />
+  </component>
+</project>
